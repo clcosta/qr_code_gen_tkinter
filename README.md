@@ -25,6 +25,11 @@ Basta digitar o comando:
 ```
 python app.py
 ```
+
+![qr_gen](https://i.ibb.co/0qCmBnv/image.png)
+
+**Por padrão todas as imagens serão geradas e colocadas na pasta _.\output\\_ com o nome de _QR.png_**
+
 # Autor
 | [<img src="https://avatars.githubusercontent.com/u/83929403?v=4" width=120><br><sub>@clcostaf</sub>](https://github.com/clcosta) |
 | :---: |
